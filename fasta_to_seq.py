@@ -1,3 +1,4 @@
+#!python3
 # parameter
 sequence = "APEKKVLFWYDPMKPDTKFDKPGKSPFMDMDLVPKYADESG" # put the sequence
 output_file = "/home/biosys/Bureau/python_cy/SilB41.seq" # Path output
