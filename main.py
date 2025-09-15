@@ -116,7 +116,7 @@ class CycyApp(QMainWindow):
         self.version_2 = QRadioButton("Version 2")
         self.version_2.setChecked(True)
         self.version_3 = QRadioButton("Version 3")
-        version_layout.addWidget(QLabel("XEASY Version:"))
+        version_layout.addWidget(QLabel("Cyana Version:"))
         version_layout.addWidget(self.version_2)
         version_layout.addWidget(self.version_3)
         self.main_layout.addLayout(version_layout)
